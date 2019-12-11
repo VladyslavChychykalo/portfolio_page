@@ -81,6 +81,11 @@ export default class Menu extends Component {
                       Filter
                     </a>
                   </li>
+                  <li>
+                    <a href="https://vladyslavchychykalo.github.io/filmoteka/build/">
+                      Filmoteka
+                    </a>
+                  </li>
                 </ul>
               </li>
               <li>
