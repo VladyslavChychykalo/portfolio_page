@@ -1,4 +1,7 @@
-.link {
-  width: 32px;
-  height: 32px;
+.wrapper {
+  margin: auto;
+}
+
+.titleCategory {
+  text-align: center;
 }

@@ -7,11 +7,11 @@ import svgCode from "../../../images/svg/binary-code.svg";
 // import { ReactSVG } from "react-svg";
 
 const Category = ({ category }) => (
-  <div>
+  <div className={styles.gallery}>
     {items
       .filter(item => item.category === category)
       .map(item => (
-        <div>
+        <div className={styles.galleryItem}>
           <h3>{item.title}</h3>
           <a className={styles.link} href={item.linkPage}>
             <Icon svgIcon={svgPage} />
