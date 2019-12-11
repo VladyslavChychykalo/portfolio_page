@@ -1,57 +1,61 @@
 [{
-    "title": "rembo",
+    "title": "EV-HUB",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/EV-website-project/build/home-page.html",
     "linkCode": "",
     "id": 1
   },
   {
-    "title": "rembo",
+    "title": "Gulp and Svg",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course/module_11/build/",
     "linkCode": "",
     "id": 2
   },
   {
-    "title": "rembo",
+    "title": "Bootstrap Adaptive layout",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course/module_09/",
     "linkCode": "",
     "id": 3
   },
   {
-    "title": "rembo",
+    "title": "Inputs and validation",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course/module_07/",
     "linkCode": "",
     "id": 4
   },
   {
-    "title": "rembo",
+    "title": "Online shop",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course/module_05/",
     "linkCode": "",
     "id": 5
   },
   {
+    "title": "Image Gallery",
     "category": "JS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course--JavaScript/module_js_08/",
     "linkCode": "",
     "id": 6
   },
   {
+    "title": "Stopwatch",
     "category": "JS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course--JavaScript/module_js_09/",
     "linkCode": "",
     "id": 7
   },
   {
+    "title": "Filter",
     "category": "JS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course--JavaScript/module_js_11/",
     "linkCode": "",
     "id": 8
   },
   {
+    "title": "Filmoteka",
     "category": "JS",
     "linkPage": "https://vladyslavchychykalo.github.io/filmoteka/build/",
     "linkCode": "",
