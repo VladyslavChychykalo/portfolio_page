@@ -13,15 +13,17 @@ const Category = ({ category }) => (
       .map(item => (
         <div className={styles.galleryItem}>
           <h3>{item.title}</h3>
-          <a className={styles.link} href={item.linkPage}>
-            <Icon svgIcon={svgPage} />
-          </a>
-          <span>Page</span>
-          <a href={item.linkCode}>
-            {/* <ReactSVG src={pukan} className={styles.svgImages} /> */}
-            <Icon svgIcon={svgCode} />
-          </a>
-          <span>Code</span>
+          <div>
+            <a href={item.linkPage}>
+              <Icon svgIcon={svgPage} />
+              {/* <span>Page</span> */}
+            </a>
+            <a href={item.linkCode}>
+              {/* <ReactSVG src={pukan} className={styles.svgImages} /> */}
+              <Icon svgIcon={svgCode} />
+              {/* <span>Code</span> */}
+            </a>
+          </div>
         </div>
       ))}
   </div>

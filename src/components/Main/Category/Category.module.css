@@ -15,3 +15,13 @@
 .galleryItem h3 {
   text-align: center;
 }
+
+.galleryItem a {
+  text-align: center;
+}
+
+.galleryItem div {
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+}
