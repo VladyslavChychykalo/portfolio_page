@@ -18,10 +18,20 @@
 
 .galleryItem a {
   text-align: center;
+  text-decoration: none;
 }
 
 .galleryItem div {
   width: 200px;
   display: flex;
   justify-content: space-around;
+}
+
+.text {
+  color: black;
+  transition: color 200ms linear;
+}
+
+.text:hover {
+  color: rgb(243, 129, 129);
 }

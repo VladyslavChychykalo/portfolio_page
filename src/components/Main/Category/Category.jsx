@@ -16,12 +16,12 @@ const Category = ({ category }) => (
           <div>
             <a href={item.linkPage}>
               <Icon svgIcon={svgPage} />
-              {/* <span>Page</span> */}
+              <p className={styles.text}>Page</p>
             </a>
             <a href={item.linkCode}>
               {/* <ReactSVG src={pukan} className={styles.svgImages} /> */}
               <Icon svgIcon={svgCode} />
-              {/* <span>Code</span> */}
+              <p className={styles.text}>Code</p>
             </a>
           </div>
         </div>
