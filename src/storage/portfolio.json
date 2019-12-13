@@ -1,4 +1,5 @@
-[{
+[
+  {
     "title": "EV-HUB",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/EV-website-project/build/home-page.html",
@@ -62,33 +63,38 @@
     "id": 9
   },
   {
+    "title": "Bank account",
     "category": "React",
-    "linkPage": "",
-    "linkCode": "",
+    "linkPage": "https://vladyslavchychykalo.github.io/goit-react-hw-02-bank-account/",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-react-hw-02-bank-account",
     "id": 10
   },
   {
+    "title": "Reader",
     "category": "React",
-    "linkPage": "",
-    "linkCode": "",
+    "linkPage": "https://vladyslavchychykalo.github.io/goit-react-hw-02-reader/",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-react-hw-02-reader",
     "id": 11
   },
   {
+    "title": "Image finder",
     "category": "React",
-    "linkPage": "",
-    "linkCode": "",
+    "linkPage": "https://vladyslavchychykalo.github.io/goit-react-hw-03-image-finder/",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-react-hw-03-image-finder",
     "id": 12
   },
   {
+    "title": "Movie finder",
     "category": "React",
-    "linkPage": "",
-    "linkCode": "",
+    "linkPage": "https://vladyslavchychykalo.github.io/goit-react-hw-04-movies/#/",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-react-hw-04-movies",
     "id": 13
   },
   {
+    "title": "Budget planner",
     "category": "React",
     "linkPage": "",
-    "linkCode": "",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-react-hw-05-budget-planner",
     "id": 14
   }
 ]

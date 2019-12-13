@@ -16,4 +16,9 @@
 .title {
   color: #ffffff;
   font-size: 75px;
+  transition: color 200ms linear;
+}
+
+.title:hover {
+  color: #2196f3;
 }

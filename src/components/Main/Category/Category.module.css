@@ -30,6 +30,7 @@
 .text {
   color: black;
   transition: color 200ms linear;
+  margin: 10px 0 10px 0;
 }
 
 .text:hover {
