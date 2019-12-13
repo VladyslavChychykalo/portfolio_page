@@ -1,3 +1,9 @@
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
 .container {
   position: absolute;
   display: inline-block;
@@ -9,7 +15,7 @@
   padding: 0;
   width: 50px;
   border: 0;
-  background-color: #000000;
+  background-color: transparent;
   color: #fff;
   cursor: pointer;
   outline: 0;
