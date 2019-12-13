@@ -1,0 +1,13 @@
+.item {
+  list-style: none;
+}
+
+.item a {
+  text-decoration: none;
+  color: #000;
+  transition: color 200ms linear;
+}
+
+.item a:hover {
+  color: rgb(243, 129, 129);
+}
