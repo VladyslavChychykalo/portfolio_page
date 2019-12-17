@@ -1,5 +1,6 @@
 import React, { Component, createRef } from 'react';
 import DropDownItem from './DropDownItem/DropDownItem';
+import Button from '../shared/Button';
 import { CSSTransition } from 'react-transition-group';
 import styles from './DropDownMenu.module.css';
 import slideTransition from '../../transitions/slide.module.css';
@@ -58,14 +59,21 @@ export default class Menu extends Component {
           // ref={this.backdropRef}
           // onClick={this.handleBackdropClick}
         >
-          <button
+          {/* <button
             style={{ color: this.state.color }}
             type="button"
             className={styles.button}
             onClick={this.toggleDropdown}
           >
             &#9776;
-          </button>
+          </button> */}
+          <Button
+            type="button"
+            color={this.state.color}
+            onClick={this.toggleDropdown}
+          >
+            &#9776;
+          </Button>
 
           <CSSTransition
             in={isOpen}
