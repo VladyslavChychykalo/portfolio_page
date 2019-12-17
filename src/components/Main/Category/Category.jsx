@@ -19,7 +19,7 @@ const Category = ({ category }) => (
               <p className={styles.text}>Page</p>
             </a>
             <a href={item.linkCode}>
-              {/* <ReactSVG src={pukan} className={styles.svgImages} /> */}
+              {/* <ReactSVG src={ReactSVG} className={styles.svgImages} /> */}
               <Icon svgIcon={svgCode} />
               <p className={styles.text}>Code</p>
             </a>

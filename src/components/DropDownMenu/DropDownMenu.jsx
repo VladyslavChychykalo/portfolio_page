@@ -95,25 +95,3 @@ export default class Menu extends Component {
     );
   }
 }
-
-// window.addEventListener('scroll', function() {
-//   document.getElementById('showScroll').innerHTML = pageYOffset + 'px';
-// });
-
-// const [navBackground, setNavBackground] = useState(false)
-// const navRef = useRef()
-// navRef.current = navBackground
-// useEffect(() => {
-//   const handleScroll = () => {
-//     const show = window.scrollY > 670
-//     if (navRef.current !== show) {
-//       setNavBackground(show)
-//     }
-//   }
-//   document.addEventListener('scroll', handleScroll)
-//   return () => {
-//     document.removeEventListener('scroll', handleScroll)
-//   }
-// }, [])
-
-//then
