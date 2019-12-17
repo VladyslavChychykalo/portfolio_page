@@ -3,63 +3,63 @@
     "title": "EV-HUB",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/EV-website-project/build/home-page.html",
-    "linkCode": "",
+    "linkCode": "https://github.com/VladyslavChychykalo/EV-website-project",
     "id": 1
   },
   {
     "title": "Gulp and Svg",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course/module_11/build/",
-    "linkCode": "",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-fe-course/tree/master/module_11",
     "id": 2
   },
   {
     "title": "Bootstrap Adaptive layout",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course/module_09/",
-    "linkCode": "",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-fe-course/tree/master/module_09",
     "id": 3
   },
   {
     "title": "Inputs and validation",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course/module_07/",
-    "linkCode": "",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-fe-course/tree/master/module_07",
     "id": 4
   },
   {
     "title": "Online shop",
     "category": "HTML/CSS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course/module_05/",
-    "linkCode": "",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-fe-course/tree/master/module_05",
     "id": 5
   },
   {
     "title": "Image Gallery",
     "category": "JS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course--JavaScript/module_js_08/",
-    "linkCode": "",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-fe-course--JavaScript/tree/master/module_js_08",
     "id": 6
   },
   {
     "title": "Stopwatch",
     "category": "JS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course--JavaScript/module_js_09/",
-    "linkCode": "",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-fe-course--JavaScript/tree/master/module_js_09",
     "id": 7
   },
   {
     "title": "Filter",
     "category": "JS",
     "linkPage": "https://vladyslavchychykalo.github.io/goit-fe-course--JavaScript/module_js_11/",
-    "linkCode": "",
+    "linkCode": "https://github.com/VladyslavChychykalo/goit-fe-course--JavaScript/tree/master/module_js_11",
     "id": 8
   },
   {
     "title": "Filmoteka",
     "category": "JS",
     "linkPage": "https://vladyslavchychykalo.github.io/filmoteka/build/",
-    "linkCode": "",
+    "linkCode": "https://github.com/VladyslavChychykalo/filmoteka",
     "id": 9
   },
   {
@@ -93,7 +93,7 @@
   {
     "title": "Budget planner",
     "category": "React",
-    "linkPage": "",
+    "linkPage": "vladyslavchychykalo.github.io/goit-react-hw-05-budget-planner/",
     "linkCode": "https://github.com/VladyslavChychykalo/goit-react-hw-05-budget-planner",
     "id": 14
   }
