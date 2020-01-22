@@ -39,34 +39,16 @@ export default class Menu extends Component {
     });
   };
 
-  // handleBackdropClick = e => {
-  //   const { current } = this.backdropRef;
-  //   return current;
-  // };
-
   toggleDropdown = () => {
     this.setState(state => ({ isOpen: !state.isOpen }));
   };
 
   render() {
     const { isOpen } = this.state;
-    // const { current } = this.backdropRef;
 
     return (
       <div className={styles.backdrop}>
-        <div
-          className={styles.container}
-          // ref={this.backdropRef}
-          // onClick={this.handleBackdropClick}
-        >
-          {/* <button
-            style={{ color: this.state.color }}
-            type="button"
-            className={styles.button}
-            onClick={this.toggleDropdown}
-          >
-            &#9776;
-          </button> */}
+        <div className={styles.container}>
           <Button
             type="button"
             color={this.state.color}
